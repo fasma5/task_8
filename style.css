@@ -1,0 +1,20 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+#answerField {
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.m-0 {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+
+#btnRetry {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
